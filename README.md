@@ -1,6 +1,6 @@
 # Flappy Bird
 ### Duncan Luis Munguia Bejarano 222310239
-### Emmanuel Cabrera Garcia 22310177
+### Eduardo Emmanuel Cabrera Garcia 22310177
 
 ## Historia.
 
